@@ -89,7 +89,7 @@ Mac OS: `sudo port install git-core`
 Then:
 - Open a terminal
 - `cd` to or create the directory you want to hold the tests
-- `git clone git@github.com:aaron868/security-audit.git`
+- `git clone https://github.com/ryanmaclean/security-audit.git`
 - The tests and supporting files will be in a directory called "security-audit"
 
 ### Configure the tests for your environment
